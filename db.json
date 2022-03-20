@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "ANDREA",
+      "empresa": "IC",
+      "email": "santitito14@gmail.com",
+      "telefono": "03875108811",
+      "notas": "",
+      "id": 3
+    },
+    {
+      "nombre": "Alejandro Avellaneda",
+      "empresa": "BLUEALBA",
+      "email": "ale@ale.com",
+      "telefono": "17282",
+      "notas": "quiere una pagina web",
+      "id": 5
+    }
+  ]
+}
